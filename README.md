@@ -5,11 +5,11 @@
 These instructions will help in getting the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-
+```
 Java 1.8 or higher
 Maven 3.3.9 or higher 
 Import as a maven project.
-
+````
 
 ### Installing
 
